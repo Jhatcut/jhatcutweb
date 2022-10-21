@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>JhatCut</title>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="stylesheet" href="start.css">
+	<link rel="icon" href="logg.png">
+
+
+</head>
+
+<body>
+
+
+	<header>
+
+		<a href="#" class="logo" style="color:#ca6ffe;"></i>JhatCut</a>
+
+		<div id="menu-bar" class="fas fa-bars"></div>
+
+		<nav class="navbar">
+			<a href="#proj">Mission</a>
+			<a href="#popular">About Us</a>
+			<a href="#popular">Partners</a>
+		</nav>
+
+
+	</header>
+
+
+	<!-- home section starts  -->
+
+	<section class="home" id="home">
+
+		<div class="image">
+			<img src="logg.png" alt="">
+			<p>Ab No More Late Cut...Use JhatCut</p>
+		</div>
+
+	</section>
+
+
+
+	<section class="proj" id="proj">
+
+		<h1 class="hdd" style="color: rgb(101, 28, 196);">Mission</h1>
+
+		<div class="conty">
+
+			<div id="p1">
+
+				<div class="addd">
+					<p style="text-align: center; color: rgb(233, 217, 0); ">1) To Value The Time of our every customer
+					</p>
+					<p style="text-align: center; color: rgb(233, 217, 0); margin-top: 2vh;">2) We are not giving you
+						money. But giving you something more valuable than it : YOUR TIME.
+						Jhattcut brings you extra time.</p>
+				</div>
+			</div>
+
+		</div>
+
+	</section>
+
+
+	<section class="about" id="about">
+
+		<div class="headabout">
+
+			<h3>About Our App</h3>
+
+		</div>
+
+
+		<div class="hemant">
+
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(1\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(2\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(3\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+
+		</div>
+
+
+
+		<div class="hemant">
+
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(4\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(2\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+			<div class="dintro"
+				style="background-image:url(pictures/app/scr\ \(3\).jpeg); background-size: cover; background-repeat: no-repeat; background-position: center;">
+			</div>
+
+
+		</div>
+
+	</section>
+
+
+
+
+
+
+	<section class="popular" id="popular" style="background-color: #3F0066">
+
+		<h1 class="heading" style="margin-bottom: 5vh;"><span style="color: rgb(218, 185, 0);"> PARTNERS</span></h1>
+
+		<div class="box-container" style="margin-bottom: 5vh;">
+
+			<div class="box">
+				<img src="1.jfif" alt="">
+				<h3>KINGS SALON</h3>
+				<a href="#" class="btn">Visit</a>
+			</div>
+
+			<div class="box">
+				<!--  <span class="price"> $5 - $20 </span> -->
+				<img src="2.jpg" alt="">
+				<h3>A1 SALON</h3>
+				<a href="#" class="btn">Visit</a>
+			</div>
+
+		</div>
+
+	</section>
+
+
+	<section class="footer">
+		<div class="share">
+			<!--
+        <a href="#" class="btn" style="color: rgb(255, 255, 255);">facebook</a>
+        <a href="#" class="btn" style="color: rgb(245, 245, 245);">twitter</a>
+        <a href="#" class="btn" style="color: rgb(255, 255, 255);">instagram</a>-->
+			<a href="https://www.linkedin.com/company/bm-renewables/about/?viewAsMember=true" class="btn"
+				style="color: rgb(255, 255, 255);">linkedin</a>
+		</div>
+	</section>
+
+
+	<!-- scroll top button  -->
+	<a href="#home" class="fas fa-angle-up" id="scroll-top"></a>
+
+	<!-- loader  -->
+	<div class="loader-container">
+		<img src="prr.gif" alt="">
+	</div>
+
+	<!-- custom js file link  -->
+	<script src="shopi.js"></script>
+
+</body>
+
+</html>

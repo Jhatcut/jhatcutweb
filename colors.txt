@@ -1,0 +1,4 @@
+dark purple #1f0033
+light purple #aa50e3
+text light purple #ca6ffe
+Extremily light purple #e8cbfb
